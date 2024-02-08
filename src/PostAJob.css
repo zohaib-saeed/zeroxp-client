@@ -1,0 +1,104 @@
+.post-page * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.post-page .body {
+    background-color: white;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-right: 25px;
+}
+
+.post-page h3 {
+    margin-left: 10px;
+    color:#F53259;
+    font-weight: bolder;
+}
+
+.post-page h6 {
+    margin-left: 10px;
+    color:rgb(158, 152, 152);
+}
+
+.post-page h1 {
+    margin-left: 3%;
+    color:#F53259;
+    font-weight: bolder;
+}
+
+.post-page h5 {
+    font-weight: lighter;
+    margin-left: 10px;
+    color:#F53259;
+}
+
+.post-page .submitButton {
+    width: 7%;
+    margin: auto;
+}
+
+.post-page .submitInput {
+    width: 100%;
+    background-color: #F53259;
+    font-size: large;
+    color:white;
+    border-color: rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.post-page label {
+    display: block;
+    margin-bottom: 8px;
+    margin-left: 10px;
+}
+
+.post-page input {
+    width: 95%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 12px;
+    margin-left: 10px;
+}
+
+.post-page select {
+    width: 95%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 12px;
+    margin-left: 10px;
+}
+
+.post-page textarea {
+    width: 95%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 12px;
+    margin-left: 10px;
+}
+
+.post-page .jobdescarea {
+    width: 95%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 12px;
+    margin-left: 10px;
+}
+
+.post-page .form-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    gap: 2%; 
+}
+  
+.post-page .card {
+    border-color: rgba(0, 0, 0, 0.1); /* border color is temporary just to visualize boxes*/
+    /* border color can be removed by altering last value which is opacity. */
+    background-color: white;
+    width: 30%;
+    margin-bottom: 5%;
+    margin-top: 1%;
+}

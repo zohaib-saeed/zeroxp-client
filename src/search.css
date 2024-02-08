@@ -1,0 +1,146 @@
+.input-taller {
+    height: 49px;
+  }
+  
+  .input-group-append .btn-search {
+    background-color: #F53259 !important;
+    border-radius: 0;
+  }
+  
+  .custom-input:focus {
+    border-color: #F53259 !important;
+    box-shadow: 0 0 0 0.2rem rgba(255, 0, 0, 0.25) !important;
+  }
+  
+  .custom-input {
+    width: 20px;
+  }
+  
+  .white-icon {
+    color: white;
+  }
+  
+  .search-results-container {
+    background-color: #F53259;
+    padding: 20px;
+    height: 100vh;
+    overflow-y: auto;
+    width: 100vw !important;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 23px;
+    padding-right: 5px;
+    align-content: flex-start;
+  }
+  
+  .job-card {
+    margin-right: 10px !important;
+    margin-bottom: 15px !important;
+    padding: auto !important;
+    max-width: auto; 
+    max-height: auto; 
+   
+  }
+  
+  .job-card:last-child {
+    margin-right: 0 !important;
+  }
+  
+  .logo-image {
+    width: 95px !important;
+    height: 95px !important;
+    float: left !important;
+    margin-right: 10px;
+  }
+  
+  .logo-text-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .text-content {
+    flex: 1 !important;
+  }
+  
+  .card-title {
+    margin-top: 0 !important;
+  }
+  
+  .card-text {
+    margin-bottom: 0.1rem !important;
+  }
+  
+  
+  .results-info {
+    background-color: #F53259;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .results-text {
+    color: white;
+    font-weight: bold;
+  }
+
+
+  
+
+  .btn-apply {
+    background-color: white !important; 
+    height: 30px !important; 
+    border: 1px solid #F53259 !important; 
+    padding: 2px 5px !important; 
+    color: #F53259 !important; 
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+    align-items: center !important;
+    text-align: center !important;
+    border-color: #F53259 !important;
+    outline: none; 
+    transition: background-color 0.3s, border-color 0.3s, color 0.3s; 
+  }
+  
+  .btn-apply:active {
+    background-color: #F53259 !important;
+    border-color: #F53259 !important;
+    color: white !important;
+  }
+
+
+  .btn-app {
+    color: white !important;
+    background-color: #F53259 !important;
+  }
+
+  .custom-modal-width {
+    max-width: 110%; 
+  }
+
+  .custom-close-button {
+    font-size: 3em; 
+    font-weight: bolder;
+    color: #F53259 !important; 
+    position: absolute;
+    top: 2px;
+    right: 10px;
+  }
+
+  .make-bolder {
+    font-weight: bolder !important;
+  }
+
+  
+  
+  .custom-job-summary {
+    width: 560px !important; 
+    
+    word-wrap: break-word !important; 
+  }
+
+  .p1{
+    color: white !important; 
+  }

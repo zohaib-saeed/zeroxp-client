@@ -1,0 +1,95 @@
+.navbar {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); 
+    background-color: #F53259; 
+  }
+
+.white-box {
+    background-color: white; 
+    padding: 7px 15px; 
+    border-radius: 5px; 
+    margin-right: 10px; 
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  .clear-box1 {
+    background-color: #F53259;
+    padding: 7px 15px;
+    border-radius: 5px;
+    border: 2px solid white; /* Add border style and width */
+    margin-right: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    outline: white !important;
+    outline-width: 20px !important;
+
+  }
+
+  
+
+.clear-box {
+    background-color: clear; 
+    padding: 7px 15px; 
+    border-radius: 5px; 
+    margin-right: 10px; 
+   
+  }
+  
+
+.ml-auto {
+    margin-left: auto !important; 
+  }
+
+.nav-link-post-job {
+    font-weight: bold; 
+    color: white;
+    text-decoration: none !important;
+    outline: #F53259 !important;
+    color: white !important;
+    border-color: #F53259 !important;
+    border-width: 10px;
+  }
+
+  .nav-link-login {
+    font-weight: bold; 
+    color: #F53259;
+    text-decoration: none !important;
+    outline: none !important;
+    color: #F53259 !important;
+  }
+
+  .nav-link-signup {
+    font-weight: bold; 
+    color: #F53259;
+    text-decoration: none !important;
+    outline: none !important;
+    color: #F53259 !important;
+  }
+.nav-link-about {
+    font-weight: bold; 
+    color: white;
+    text-decoration: none !important;
+    display: flex;
+    align-items: center;
+    color: white !important;
+    outline: none !important;
+  }
+
+  .custom-linkedin-button {
+    font-size: 16px; 
+    padding: 10px 8px !important; 
+    background-color: transparent; 
+    border: none; 
+    display: flex;
+    align-items: center;
+  }
+  
+  .linkedin-logo {
+    width: 230px !important; 
+    height: 34px !important;
+    margin-right: 0px !important; 
+  }
+
+
+  .nav-links {
+    display: flex !important; /* Use flexbox to display items in a row */
+  align-items: center !important;
+  padding-right: 10px !important;
+  }
